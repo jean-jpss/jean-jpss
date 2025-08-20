@@ -4,7 +4,7 @@ Eu sou <strong>Jean Phillip Saboia da Silva</strong>, <strong>Iniciando ADS no S
 
 - 🚀 Atualmente estou aprendendo: <strong>Banco de dados: DDL e DML</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogos, musica, treino e estudos.</strong>
-- 📣 Nós podemos falar em: <strong>Português e mal</strong>
+- 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
 
