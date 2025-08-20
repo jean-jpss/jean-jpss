@@ -1,4 +1,4 @@
-# [Jean Phillip] <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif](https://www.google.com/imgres?q=monster%20hunter%20git%20sem%20fundo&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F233%2F58%2Fpng-transparent-monster-hunter-generations-monster-hunter-4-monster-hunter-world-monster-hunter-tri-monster-dragon-video-game-fictional-character.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-pgljs&docid=DbKSW6MrE3ouuM&tbnid=sHuIquh3p5R2MM&vet=12ahUKEwiagMnkjJiPAxXxrZUCHeaRAPAQM3oECCIQAA..i&w=920&h=595&hcb=2&ved=2ahUKEwiagMnkjJiPAxXxrZUCHeaRAPAQM3oECCIQAA)" width="30px">
+# [Jean Phillip] <img src="" width="30px">
 
 Eu sou <strong>Jean Phillip Saboia da Silva</strong>, <strong>Iniciando ADS no Senac</strong> 👨🏻‍💻 
 
